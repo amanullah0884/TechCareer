@@ -1,0 +1,37 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCareer_DLL", "TechCareer_DLL\TechCareer_DLL.csproj", "{DFB1FBC0-B9CA-40D4-8F1F-0E0228E0DA80}"
+EndProject
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechCareer.API", "TechCareer.API\TechCareer.API.csproj", "{F90F5B8E-5AFD-4BF1-9BB5-18FC68123B68}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB1FBC0-B9CA-40D4-8F1F-0E0228E0DA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB1FBC0-B9CA-40D4-8F1F-0E0228E0DA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB1FBC0-B9CA-40D4-8F1F-0E0228E0DA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB1FBC0-B9CA-40D4-8F1F-0E0228E0DA80}.Release|Any CPU.Build.0 = Release|Any CPU
+
+		{F90F5B8E-5AFD-4BF1-9BB5-18FC68123B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90F5B8E-5AFD-4BF1-9BB5-18FC68123B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90F5B8E-5AFD-4BF1-9BB5-18FC68123B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90F5B8E-5AFD-4BF1-9BB5-18FC68123B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D341877-5B26-4A78-8E70-F9B80419CBE9}
+	EndGlobalSection
+EndGlobal
